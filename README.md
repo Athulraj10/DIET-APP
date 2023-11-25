@@ -1,2 +1,0 @@
-# DIET-APP
-simple project
